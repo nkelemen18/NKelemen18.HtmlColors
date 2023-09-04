@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Description>Validate HTML colors: color names, rgb, rgba, hex colors</Description>
+        <Title>HTML color helper package</Title>
+        <Authors>Norbert Kelemen</Authors>
+        <Copyright>Norbert Kelemen 2023</Copyright>
+        <PackageProjectUrl>https://github.com/nkelemen18/NKelemen18.HtmlColors</PackageProjectUrl>
+        <PackageIcon>icon.png</PackageIcon>
+        <RepositoryUrl>https://github.com/nkelemen18/NKelemen18.HtmlColors</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <PackageTags>HTML, Color, Validation</PackageTags>
+        <NeutralLanguage>en</NeutralLanguage>
+        <LangVersion>10</LangVersion>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
+        <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+       <Version>1.0.0</Version>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <None Include="icon.png" Pack="true" PackagePath="\"/>
+        <None Include="..\README.md" Pack="true" PackagePath="\"/>
+        <None Include="..\LICENSE.txt" Pack="true" PackagePath="\"/>
+    </ItemGroup>
+    
+</Project>

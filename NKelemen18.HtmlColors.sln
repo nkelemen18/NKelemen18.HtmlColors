@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NKelemen18.HtmlColors", "NKelemen18.HtmlColors\NKelemen18.HtmlColors.csproj", "{079DBE34-1658-49E6-A52E-675E59AD1743}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NKelemen18.HtmlColors.Tests", "NKelemen18.HtmlColors.Tests\NKelemen18.HtmlColors.Tests.csproj", "{895FF67D-5B84-4C1F-8C6E-9502602FF668}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{079DBE34-1658-49E6-A52E-675E59AD1743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{079DBE34-1658-49E6-A52E-675E59AD1743}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{079DBE34-1658-49E6-A52E-675E59AD1743}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{079DBE34-1658-49E6-A52E-675E59AD1743}.Release|Any CPU.Build.0 = Release|Any CPU
+		{895FF67D-5B84-4C1F-8C6E-9502602FF668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{895FF67D-5B84-4C1F-8C6E-9502602FF668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{895FF67D-5B84-4C1F-8C6E-9502602FF668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{895FF67D-5B84-4C1F-8C6E-9502602FF668}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
